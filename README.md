@@ -12,4 +12,13 @@
 
 Latest VK
 
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=47C5FB)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)
+![.Net](https://img.shields.io/badge/-.Net-090909?style=for-the-badge&logo=.Net&logoColor=47C5FB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=47C5FB)
+![.Net](https://img.shields.io/badge/-.Net-090909?style=for-the-badge&logo=.Net&logoColor=47C5FB)
+
 Follow Me
