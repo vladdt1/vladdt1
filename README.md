@@ -5,8 +5,6 @@
 - 📚 I am learning new languages
 - ⚽ I love to play football
 
-Latest VK
-
 ### Languages and Tools
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47C5FB)
 ![Svelte](https://img.shields.io/badge/-Svelte-090909?style=for-the-badge&logo=Svelte&logoColor=47C5FB)
