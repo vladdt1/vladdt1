@@ -27,4 +27,6 @@ Latest VK
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=47C5FB)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-090909?style=for-the-badge&logo=VisualStudio&logoColor=47C5FB)
 
-Follow Me
+### Follow Me
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vkontakte&logoColor=47C5FB)](https://vk.com/nolivee)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=47C5FB)](https://www.instagram.com/vladustitov)
