@@ -1,11 +1,11 @@
 <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vlad)](https://git.io/typing-svg)</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vlad)](https://git.io/typing-svg)
 ### I'm a FrontEnd Developer
 - 💻 I love programming
 - 📚 I am learning new languages
 - ⚽ I love to play football
 
 ### Languages and Tools
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vlad)](https://git.io/typing-svg)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47C5FB)
 ![Svelte](https://img.shields.io/badge/-Svelte-090909?style=for-the-badge&logo=Svelte&logoColor=47C5FB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=47C5FB)
