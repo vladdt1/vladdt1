@@ -6,7 +6,7 @@
 - ⚽ I love to play football
 
 ### Languages and Tools
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
+![Build Status](https://img.shields.io/travis/username/repo.svg?style=flat-square)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47C5FB)
 ![Svelte](https://img.shields.io/badge/-Svelte-090909?style=for-the-badge&logo=Svelte&logoColor=47C5FB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=47C5FB)
