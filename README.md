@@ -1,26 +1,74 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vlad)](https://git.io/typing-svg)
-### I'm a FrontEnd Developer
-- 💻 I love programming
-- 📚 I am learning new languages
-- ⚽ I love to play football
+<p align="center">
+  <!-- Анимационный GIF-баннер в шапке -->
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Welcome Animation" width="600" />
+</p>
 
-### Languages and Tools
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=47C5FB)
-![Svelte](https://img.shields.io/badge/-Svelte-090909?style=for-the-badge&logo=Svelte&logoColor=47C5FB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=47C5FB)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=47C5FB)
-![.Net](https://img.shields.io/badge/-.Net-090909?style=for-the-badge&logo=.Net&logoColor=47C5FB)
-![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=NodeJS&logoColor=47C5FB)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=47C5FB)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=47C5FB)
-![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=47C5FB)
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=47C5FB)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-090909?style=for-the-badge&logo=VisualStudio&logoColor=47C5FB)
+## 🛠 Технологии и Инструменты
 
-### Follow Me
-[![Vk](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=47C5FB)](https://vk.com/nolivee)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=47C5FB)](https://www.instagram.com/vladustitov)
+<p align="center">
+  <!-- Шильдики (badges) с указанием версий -->
+  <img src="https://img.shields.io/badge/PHP-8.1-blue.svg" alt="PHP 8.1" />
+  <img src="https://img.shields.io/badge/Symfony-6.x-purple.svg" alt="Symfony 6.x" />
+  <img src="https://img.shields.io/badge/Doctrine-2.x-green.svg" alt="Doctrine ORM" />
+  <img src="https://img.shields.io/badge/Twig-3.x-orange.svg" alt="Twig" />
+  <img src="https://img.shields.io/badge/Redis-^6.0-red.svg" alt="Redis Cache" />
+  <img src="https://img.shields.io/badge/SQLite-3.x-yellow.svg" alt="SQLite" />
+</p>
 
+- **Язык:** PHP 8.1  
+- **Фреймворк:** Symfony 6  
+- **ORM:** Doctrine 2  
+- **Шаблонизатор:** Twig  
+- **Кэширование:** Redis (PSR-6)  
+- **СУБД (по умолчанию для dev):** SQLite  
+- **Тестирование:** PHPUnit  
+- **CI/CD:** GitHub Actions  
 
+---
+
+## 📜 Описание Проекта
+
+Этот репозиторий содержит **великолепное приложение** на основе Symfony 6, демонстрирующее:
+
+1. **Чистую архитектуру** (DDD/Service-ориентированный подход).  
+2. **Продвинутую конфигурацию Doctrine** (методы кеширования, ленивые соединения, L2 кэш).  
+3. **Гибкую систему ролей и прав** (Symfony Security + Voter).  
+4. **Адаптивный фронтенд** с анимациями через CSS/Twig и пользовательские компоненты.  
+5. **Примеры команд-скриптов (Console Commands)** для фоновых задач (Cron).  
+
+---
+
+## 🎨 Анимации и Демонстрации
+
+### 1. Анимация загрузки
+
+```twig
+{# Пример Twig-шаблона с CSS-анимацией «курсионок» #}
+<div class="loader">
+  <div class="dot dot-1"></div>
+  <div class="dot dot-2"></div>
+  <div class="dot dot-3"></div>
+</div>
+
+<style>
+.loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+.dot {
+  width: 12px;
+  height: 12px;
+  margin: 0 6px;
+  background-color: #4CAF50;
+  border-radius: 50%;
+  animation: bounce 0.6s infinite alternate;
+}
+.dot-2 { animation-delay: 0.2s; }
+.dot-3 { animation-delay: 0.4s; }
+
+@keyframes bounce {
+  to { transform: translateY(-15px); }
+}
+</style>
